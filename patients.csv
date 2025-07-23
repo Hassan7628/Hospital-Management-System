@@ -1,0 +1,3 @@
+ID,Name,Age,Gender,Illness,AssignedDoctor,BillAmount
+P001,Ali,18,M,Flu,D001,1000.0
+P002,Hassan,18,M,Headache,None,878.0

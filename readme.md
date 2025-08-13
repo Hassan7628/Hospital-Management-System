@@ -1,2 +1,2 @@
-simple Hospital Management System.
+Simple Hospital Management System.
 No lib needed.
